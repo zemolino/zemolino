@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @zemolino
 - 👀 I’m interested in Security, Automation, ...
-- 🌱 I’m currently working on Zscaler integration with Azure Sentinel and its Kusto Query Language, ...
-- 💞️ I’m currently collaborating with a great team!
 - 📫 How to reach me? Here you go: zemolino[at]hotmail.com
 
 <!---
