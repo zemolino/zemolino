@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zemolino
-- 👀 I’m interested in Security, Automation, ...
+- 👀 I’m interested in Cyber Security, Automation, ...
 - 📫 How to reach me? Here you go: zemolino[at]hotmail.com
 
 <!---
